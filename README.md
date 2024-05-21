@@ -22,4 +22,6 @@ Actual Result: The Participant from iPhone Safari does not hear the Host.
 
 Expected Result: The Participant from iPhone Safari should always hear the Host.
 
-Note: If one more participant joins the session the Participant from iPhone Safari starts hearing the Host.
+Note:
+If one more participant joins the session the Participant from iPhone Safari starts hearing the Host.
+If both users join from desktop browsers they will hear each other.
